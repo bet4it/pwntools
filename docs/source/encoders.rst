@@ -23,3 +23,15 @@
 
 .. automodule:: pwnlib.encoders.i386.xor
    :members:
+
+.. automodule:: pwnlib.encoders.i386.delta
+   :members:
+
+.. automodule:: pwnlib.encoders.amd64.delta
+   :members:
+
+.. automodule:: pwnlib.encoders.arm.xor
+   :members:
+
+.. automodule:: pwnlib.encoders.mips.xor
+   :members:
